@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>example</name>
+=======
+	<name>demoProj</name>
+>>>>>>> branch 'master' of https://github.com/XS170202105957/WH170202105957.git
 	<comment></comment>
 	<projects>
 	</projects>
